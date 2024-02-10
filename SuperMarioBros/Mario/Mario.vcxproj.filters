@@ -1,0 +1,375 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Archivos de código fuente">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Archivos de encabezado">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Archivos de recursos">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AnimKeyframes.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Player.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Shader.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="ShaderProgram.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Sprite.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Texture.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="TileMap.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Goomba.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Bloque.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Koopa.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Objeto.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Text.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Banner.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Moneda.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="PantallaMundo.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="PantallaTimeUp.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="PantallaGameOver.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="PantallaInicial.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Credits.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="PantallaWin.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="PantallaInstrucciones.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="PowerUp.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+    <ClInclude Include="Audio.h">
+      <Filter>Archivos de encabezado</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Game.cpp">
+      <Filter>Archivos de código fuente</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Archivos de código fuente</Filter>
+    </ClCompile>
+    <ClCompile Include="Player.cpp">
+      <Filter>Archivos de código fuente</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene.cpp">
+      <Filter>Archivos de código fuente</Filter>
+    </ClCompile>
+    <ClCompile Include="Shader.cpp">
+      <Filter>Archivos de código fuente</Filter>
+    </ClCompile>
+    <ClCompile Include="ShaderProgram.cpp">
+      <Filter>Archivos de código fuente</Filter>
+    </ClCompile>
+    <ClCompile Include="Sprite.cpp">
+      <Filter>Archivos de código fuente</Filter>
+    </ClCompile>
+    <ClCompile Include="Texture.cpp">
+      <Filter>Archivos de código fuente</Filter>
+    </ClCompile>
+    <ClCompile Include="TileMap.cpp">
+      <Filter>Archivos de código fuente</Filter>
+    </ClCompile>
+    <ClCompile Include="Goomba.cpp">
+      <Filter>Archivos de código fuente</Filter>
+    </ClCompile>
+    <ClCompile Include="Bloque.cpp">
+      <Filter>Archivos de código fuente</Filter>
+    </ClCompile>
+    <ClCompile Include="Koopa.cpp">
+      <Filter>Archivos de código fuente</Filter>
+    </ClCompile>
+    <ClCompile Include="Objeto.cpp">
+      <Filter>Archivos de código fuente</Filter>
+    </ClCompile>
+    <ClCompile Include="Text.cpp">
+      <Filter>Archivos de código fuente</Filter>
+    </ClCompile>
+    <ClCompile Include="Banner.cpp">
+      <Filter>Archivos de código fuente</Filter>
+    </ClCompile>
+    <ClCompile Include="Moneda.cpp">
+      <Filter>Archivos de código fuente</Filter>
+    </ClCompile>
+    <ClCompile Include="PantallaMundo.cpp">
+      <Filter>Archivos de código fuente</Filter>
+    </ClCompile>
+    <ClCompile Include="PantallaTimeUp.cpp">
+      <Filter>Archivos de código fuente</Filter>
+    </ClCompile>
+    <ClCompile Include="PantallaGameOver.cpp">
+      <Filter>Archivos de código fuente</Filter>
+    </ClCompile>
+    <ClCompile Include="PantallaInicial.cpp">
+      <Filter>Archivos de código fuente</Filter>
+    </ClCompile>
+    <ClCompile Include="Credits.cpp">
+      <Filter>Archivos de código fuente</Filter>
+    </ClCompile>
+    <ClCompile Include="PantallaWin.cpp">
+      <Filter>Archivos de código fuente</Filter>
+    </ClCompile>
+    <ClCompile Include="PantallaInstrucciones.cpp">
+      <Filter>Archivos de código fuente</Filter>
+    </ClCompile>
+    <ClCompile Include="PowerUp.cpp">
+      <Filter>Archivos de código fuente</Filter>
+    </ClCompile>
+    <ClCompile Include="Audio.cpp">
+      <Filter>Archivos de código fuente</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="images\agus.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="images\Animacion1.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="images\BannerSuperior.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="images\blocks.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="images\bub.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="images\BloqueInterrogante.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="images\Goomba.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="images\Goomba2.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="images\Koopa.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="images\KoopaCaparazon.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="images\Mario.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="images\rocks.jpg">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="images\SuperMario.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="images\tipografia.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="images\varied.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="images\BloqueLadrillo.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="images\Moneda.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="images\PantallaMundo.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="images\PantallaGameOver.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="images\PantallaTimeUp.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="images\PantallaInicial.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="images\MonedaBanner.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="images\tipografia_red.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="images\mushroom.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="images\PantallaInstrucciones.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="images\PantallaMultiusos.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="images\PantallaWin.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="images\PowerUpsInstr.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="images\start.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="images\Teclas1.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="images\Teclas2.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="images\star.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="images\StarMario.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+    <Image Include="images\StarSuperMario.png">
+      <Filter>Archivos de recursos</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Debug\freeglut.dll" />
+    <None Include="Debug\freetype6.dll" />
+    <None Include="Debug\glew32.dll" />
+    <None Include="levels\agus.tsx" />
+    <None Include="levels\world1.tmx" />
+    <None Include="shaders\simple.frag" />
+    <None Include="shaders\texture.frag" />
+    <None Include="shaders\simple.vert" />
+    <None Include="shaders\texture.vert" />
+    <None Include="Debug\Mario.exe.recipe" />
+    <None Include="Debug\Mario.tlog\unsuccessfulbuild" />
+    <None Include="levels\mapa (1).tmx" />
+    <None Include="sound\level01.ogg" />
+    <None Include="sound\level02.ogg" />
+    <None Include="sound\level-clear.ogg" />
+    <None Include="sound\super-mario-bros-nes-music-star-theme-cut-mp3.ogg" />
+    <None Include="sound\01. Title Screen.ogg" />
+    <None Include="sound\Stage Win (Super Mario) - QuickSounds.com.ogg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="levels\level01.txt" />
+    <Text Include="levels\objects01.txt" />
+    <Text Include="Debug\Mario.Build.CppClean.log" />
+    <Text Include="Debug\Mario.log" />
+    <Text Include="Debug\Mario.vcxproj.FileListAbsolute.txt" />
+    <Text Include="levels\level02.txt" />
+    <Text Include="levels\objects02.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="sound\1up.wav">
+      <Filter>Archivos de recursos</Filter>
+    </Media>
+    <Media Include="sound\Beep.wav">
+      <Filter>Archivos de recursos</Filter>
+    </Media>
+    <Media Include="sound\Big Jump.wav">
+      <Filter>Archivos de recursos</Filter>
+    </Media>
+    <Media Include="sound\Bowser Die.wav">
+      <Filter>Archivos de recursos</Filter>
+    </Media>
+    <Media Include="sound\Break.wav">
+      <Filter>Archivos de recursos</Filter>
+    </Media>
+    <Media Include="sound\Bump.wav">
+      <Filter>Archivos de recursos</Filter>
+    </Media>
+    <Media Include="sound\Coin.wav">
+      <Filter>Archivos de recursos</Filter>
+    </Media>
+    <Media Include="sound\Die.wav">
+      <Filter>Archivos de recursos</Filter>
+    </Media>
+    <Media Include="sound\Enemy Fire.wav">
+      <Filter>Archivos de recursos</Filter>
+    </Media>
+    <Media Include="sound\Fire Ball.wav">
+      <Filter>Archivos de recursos</Filter>
+    </Media>
+    <Media Include="sound\Flagpole.wav">
+      <Filter>Archivos de recursos</Filter>
+    </Media>
+    <Media Include="sound\Game Over.wav">
+      <Filter>Archivos de recursos</Filter>
+    </Media>
+    <Media Include="sound\Item.wav">
+      <Filter>Archivos de recursos</Filter>
+    </Media>
+    <Media Include="sound\Kick.wav">
+      <Filter>Archivos de recursos</Filter>
+    </Media>
+    <Media Include="sound\Jump.wav">
+      <Filter>Archivos de recursos</Filter>
+    </Media>
+    <Media Include="sound\Pause.wav">
+      <Filter>Archivos de recursos</Filter>
+    </Media>
+    <Media Include="sound\Powerup.wav">
+      <Filter>Archivos de recursos</Filter>
+    </Media>
+    <Media Include="sound\Squish.wav">
+      <Filter>Archivos de recursos</Filter>
+    </Media>
+    <Media Include="sound\Skid.wav">
+      <Filter>Archivos de recursos</Filter>
+    </Media>
+    <Media Include="sound\Thwomp.wav">
+      <Filter>Archivos de recursos</Filter>
+    </Media>
+    <Media Include="sound\Vine.wav">
+      <Filter>Archivos de recursos</Filter>
+    </Media>
+    <Media Include="sound\Warp.wav">
+      <Filter>Archivos de recursos</Filter>
+    </Media>
+    <Media Include="sound\GameOver.wav">
+      <Filter>Archivos de recursos</Filter>
+    </Media>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,53 @@
+﻿  Audio.cpp
+C:\Users\Bugsys\Desktop\MarioBrosJaviAgus\SuperMarioBros\Mario\Audio.cpp(5,10): fatal error C1083: No se puede abrir el archivo incluir: 'irrKlang.h': No such file or directory
+  Banner.cpp
+C:\Users\Bugsys\Desktop\MarioBrosJaviAgus\SuperMarioBros\Mario\Banner.cpp(3,10): fatal error C1083: No se puede abrir el archivo incluir: 'GL/glew.h': No such file or directory
+  Bloque.cpp
+C:\Users\Bugsys\Desktop\MarioBrosJaviAgus\SuperMarioBros\Mario\Bloque.cpp(3,10): fatal error C1083: No se puede abrir el archivo incluir: 'GL/glew.h': No such file or directory
+  Credits.cpp
+C:\Users\Bugsys\Desktop\MarioBrosJaviAgus\SuperMarioBros\Mario\Credits.cpp(3,10): fatal error C1083: No se puede abrir el archivo incluir: 'glm/gtc/matrix_transform.hpp': No such file or directory
+  Game.cpp
+C:\Users\Bugsys\Desktop\MarioBrosJaviAgus\SuperMarioBros\Mario\Game.cpp(1,10): fatal error C1083: No se puede abrir el archivo incluir: 'GL/glew.h': No such file or directory
+  Goomba.cpp
+C:\Users\Bugsys\Desktop\MarioBrosJaviAgus\SuperMarioBros\Mario\Goomba.cpp(3,10): fatal error C1083: No se puede abrir el archivo incluir: 'GL/glew.h': No such file or directory
+  Koopa.cpp
+C:\Users\Bugsys\Desktop\MarioBrosJaviAgus\SuperMarioBros\Mario\Koopa.cpp(3,10): fatal error C1083: No se puede abrir el archivo incluir: 'GL/glew.h': No such file or directory
+  main.cpp
+C:\Users\Bugsys\Desktop\MarioBrosJaviAgus\SuperMarioBros\Mario\main.cpp(1,10): fatal error C1083: No se puede abrir el archivo incluir: 'GL/glew.h': No such file or directory
+  Moneda.cpp
+C:\Users\Bugsys\Desktop\MarioBrosJaviAgus\SuperMarioBros\Mario\Moneda.cpp(3,10): fatal error C1083: No se puede abrir el archivo incluir: 'GL/glew.h': No such file or directory
+  Objeto.cpp
+C:\Users\Bugsys\Desktop\MarioBrosJaviAgus\SuperMarioBros\Mario\Objeto.cpp(3,10): fatal error C1083: No se puede abrir el archivo incluir: 'GL/glew.h': No such file or directory
+  PantallaGameOver.cpp
+C:\Users\Bugsys\Desktop\MarioBrosJaviAgus\SuperMarioBros\Mario\PantallaGameOver.cpp(3,10): fatal error C1083: No se puede abrir el archivo incluir: 'glm/gtc/matrix_transform.hpp': No such file or directory
+  PantallaInicial.cpp
+C:\Users\Bugsys\Desktop\MarioBrosJaviAgus\SuperMarioBros\Mario\PantallaInicial.cpp(3,10): fatal error C1083: No se puede abrir el archivo incluir: 'glm/gtc/matrix_transform.hpp': No such file or directory
+  PantallaInstrucciones.cpp
+C:\Users\Bugsys\Desktop\MarioBrosJaviAgus\SuperMarioBros\Mario\PantallaInstrucciones.cpp(3,10): fatal error C1083: No se puede abrir el archivo incluir: 'glm/gtc/matrix_transform.hpp': No such file or directory
+  PantallaMundo.cpp
+C:\Users\Bugsys\Desktop\MarioBrosJaviAgus\SuperMarioBros\Mario\PantallaMundo.cpp(3,10): fatal error C1083: No se puede abrir el archivo incluir: 'GL/glew.h': No such file or directory
+  PantallaTimeUp.cpp
+C:\Users\Bugsys\Desktop\MarioBrosJaviAgus\SuperMarioBros\Mario\PantallaTimeUp.cpp(3,10): fatal error C1083: No se puede abrir el archivo incluir: 'GL/glew.h': No such file or directory
+  PantallaWin.cpp
+C:\Users\Bugsys\Desktop\MarioBrosJaviAgus\SuperMarioBros\Mario\PantallaWin.cpp(3,10): fatal error C1083: No se puede abrir el archivo incluir: 'glm/gtc/matrix_transform.hpp': No such file or directory
+  Player.cpp
+C:\Users\Bugsys\Desktop\MarioBrosJaviAgus\SuperMarioBros\Mario\Player.cpp(3,10): fatal error C1083: No se puede abrir el archivo incluir: 'GL/glew.h': No such file or directory
+  PowerUp.cpp
+C:\Users\Bugsys\Desktop\MarioBrosJaviAgus\SuperMarioBros\Mario\Sprite.h(6,10): fatal error C1083: No se puede abrir el archivo incluir: 'glm/glm.hpp': No such file or directory
+  Scene.cpp
+C:\Users\Bugsys\Desktop\MarioBrosJaviAgus\SuperMarioBros\Mario\Scene.cpp(3,10): fatal error C1083: No se puede abrir el archivo incluir: 'glm/gtc/matrix_transform.hpp': No such file or directory
+  Shader.cpp
+C:\Users\Bugsys\Desktop\MarioBrosJaviAgus\SuperMarioBros\Mario\Shader.h(6,10): fatal error C1083: No se puede abrir el archivo incluir: 'GL/glew.h': No such file or directory
+  Generando código...
+  Compilando...
+  ShaderProgram.cpp
+C:\Users\Bugsys\Desktop\MarioBrosJaviAgus\SuperMarioBros\Mario\ShaderProgram.cpp(1,10): fatal error C1083: No se puede abrir el archivo incluir: 'glm/gtc/type_ptr.hpp': No such file or directory
+  Sprite.cpp
+C:\Users\Bugsys\Desktop\MarioBrosJaviAgus\SuperMarioBros\Mario\Sprite.cpp(1,10): fatal error C1083: No se puede abrir el archivo incluir: 'GL/glew.h': No such file or directory
+  Text.cpp
+C:\Users\Bugsys\Desktop\MarioBrosJaviAgus\SuperMarioBros\Mario\Text.cpp(3,10): fatal error C1083: No se puede abrir el archivo incluir: 'GL/glew.h': No such file or directory
+  Texture.cpp
+C:\Users\Bugsys\Desktop\MarioBrosJaviAgus\SuperMarioBros\Mario\Texture.cpp(1,10): fatal error C1083: No se puede abrir el archivo incluir: 'SOIL.h': No such file or directory
+  TileMap.cpp
+C:\Users\Bugsys\Desktop\MarioBrosJaviAgus\SuperMarioBros\Mario\TileMap.h(5,10): fatal error C1083: No se puede abrir el archivo incluir: 'glm/glm.hpp': No such file or directory
+  Generando código...
